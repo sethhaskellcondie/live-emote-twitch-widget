@@ -1,0 +1,1381 @@
+{
+  "commandCooldown": {
+    "type": "number",
+    "label": "Cooldown (Seconds)",
+    "value": 60
+  },
+  "resetCooldown": {
+    "type": "number",
+    "label": "Reset To Default (Seconds)",
+    "value": 600
+  },
+  "caseSensitive": {
+    "type": "dropdown",
+    "label": "Case Sensitive Commands",
+    "value": "Off (ALL LOWERCASE COMMANDS)",
+    "options": {
+      "on": "On",
+      "off": "Off (ALL LOWERCASE COMMANDS)"
+    }
+  },
+  "imageDefault": {
+    "type": "image-input",
+    "label": "imageDefault",
+    "value": ""
+  },
+  "triggerDefault": {
+    "type": "text",
+    "label": "default image command",
+    "value": "default"
+  },
+  "image1": {
+    "type": "image-input",
+    "label": "image1",
+    "value": ""
+  },
+  "sound1": {
+    "type": "sound-input",
+    "label": "sound1",
+    "value": ""
+  },
+  "trigger1": {
+    "type": "text",
+    "label": "image1 trigger command",
+    "value": ""
+  },
+  "image2": {
+    "type": "image-input",
+    "label": "image2",
+    "value": ""
+  },
+  "sound2": {
+    "type": "sound-input",
+    "label": "sound2",
+    "value": ""
+  },
+  "trigger2": {
+    "type": "text",
+    "label": "image2 trigger command",
+    "value": ""
+  },
+  "image3": {
+    "type": "image-input",
+    "label": "image3",
+    "value": ""
+  },
+  "sound3": {
+    "type": "sound-input",
+    "label": "sound3",
+    "value": ""
+  },
+  "trigger3": {
+    "type": "text",
+    "label": "image3 trigger command",
+    "value": ""
+  },
+  "image4": {
+    "type": "image-input",
+    "label": "image4",
+    "value": ""
+  },
+  "sound4": {
+    "type": "sound-input",
+    "label": "sound4",
+    "value": ""
+  },
+  "trigger4": {
+    "type": "text",
+    "label": "image4 trigger command",
+    "value": ""
+  },
+  "image5": {
+    "type": "image-input",
+    "label": "image5",
+    "value": ""
+  },
+  "sound5": {
+    "type": "sound-input",
+    "label": "sound5",
+    "value": ""
+  },
+  "trigger5": {
+    "type": "text",
+    "label": "image5 trigger command",
+    "value": ""
+  },
+  "image6": {
+    "type": "image-input",
+    "label": "image6",
+    "value": ""
+  },
+  "sound6": {
+    "type": "sound-input",
+    "label": "sound6",
+    "value": ""
+  },
+  "trigger6": {
+    "type": "text",
+    "label": "image6 trigger command",
+    "value": ""
+  },
+  "image7": {
+    "type": "image-input",
+    "label": "image7",
+    "value": ""
+  },
+  "sound7": {
+    "type": "sound-input",
+    "label": "sound7",
+    "value": ""
+  },
+  "trigger7": {
+    "type": "text",
+    "label": "image7 trigger command",
+    "value": ""
+  },
+  "image8": {
+    "type": "image-input",
+    "label": "image8",
+    "value": ""
+  },
+  "sound8": {
+    "type": "sound-input",
+    "label": "sound8",
+    "value": ""
+  },
+  "trigger8": {
+    "type": "text",
+    "label": "image8 trigger command",
+    "value": ""
+  },
+  "image9": {
+    "type": "image-input",
+    "label": "image9",
+    "value": ""
+  },
+  "sound9": {
+    "type": "sound-input",
+    "label": "sound9",
+    "value": ""
+  },
+  "trigger9": {
+    "type": "text",
+    "label": "image9 trigger command",
+    "value": ""
+  },
+  "image10": {
+    "type": "image-input",
+    "label": "image10",
+    "value": ""
+  },
+  "sound10": {
+    "type": "sound-input",
+    "label": "sound10",
+    "value": ""
+  },
+  "trigger10": {
+    "type": "text",
+    "label": "image10 trigger command",
+    "value": ""
+  },
+  "image11": {
+    "type": "image-input",
+    "label": "image11",
+    "value": ""
+  },
+  "sound11": {
+    "type": "sound-input",
+    "label": "sound11",
+    "value": ""
+  },
+  "trigger11": {
+    "type": "text",
+    "label": "image11 trigger command",
+    "value": ""
+  },
+  "image12": {
+    "type": "image-input",
+    "label": "image12",
+    "value": ""
+  },
+  "sound12": {
+    "type": "sound-input",
+    "label": "sound12",
+    "value": ""
+  },
+  "trigger12": {
+    "type": "text",
+    "label": "image12 trigger command",
+    "value": ""
+  },
+  "image13": {
+    "type": "image-input",
+    "label": "image13",
+    "value": ""
+  },
+  "sound13": {
+    "type": "sound-input",
+    "label": "sound13",
+    "value": ""
+  },
+  "trigger13": {
+    "type": "text",
+    "label": "image13 trigger command",
+    "value": ""
+  },
+  "image14": {
+    "type": "image-input",
+    "label": "image14",
+    "value": ""
+  },
+  "sound14": {
+    "type": "sound-input",
+    "label": "sound14",
+    "value": ""
+  },
+  "trigger14": {
+    "type": "text",
+    "label": "image14 trigger command",
+    "value": ""
+  },
+  "image15": {
+    "type": "image-input",
+    "label": "image15",
+    "value": ""
+  },
+  "sound15": {
+    "type": "sound-input",
+    "label": "sound15",
+    "value": ""
+  },
+  "trigger15": {
+    "type": "text",
+    "label": "image15 trigger command",
+    "value": ""
+  },
+  "image16": {
+    "type": "image-input",
+    "label": "image16",
+    "value": ""
+  },
+  "sound16": {
+    "type": "sound-input",
+    "label": "sound16",
+    "value": ""
+  },
+  "trigger16": {
+    "type": "text",
+    "label": "image16 trigger command",
+    "value": ""
+  },
+  "image17": {
+    "type": "image-input",
+    "label": "image17",
+    "value": ""
+  },
+  "sound17": {
+    "type": "sound-input",
+    "label": "sound17",
+    "value": ""
+  },
+  "trigger17": {
+    "type": "text",
+    "label": "image17 trigger command",
+    "value": ""
+  },
+  "image18": {
+    "type": "image-input",
+    "label": "image18",
+    "value": ""
+  },
+  "sound18": {
+    "type": "sound-input",
+    "label": "sound18",
+    "value": ""
+  },
+  "trigger18": {
+    "type": "text",
+    "label": "image18 trigger command",
+    "value": ""
+  },
+  "image19": {
+    "type": "image-input",
+    "label": "image19",
+    "value": ""
+  },
+  "sound19": {
+    "type": "sound-input",
+    "label": "sound19",
+    "value": ""
+  },
+  "trigger19": {
+    "type": "text",
+    "label": "image19 trigger command",
+    "value": ""
+  },
+  "image20": {
+    "type": "image-input",
+    "label": "image20",
+    "value": ""
+  },
+  "sound20": {
+    "type": "sound-input",
+    "label": "sound20",
+    "value": ""
+  },
+  "trigger20": {
+    "type": "text",
+    "label": "image20 trigger command",
+    "value": ""
+  },
+  "image21": {
+    "type": "image-input",
+    "label": "image21",
+    "value": ""
+  },
+  "sound21": {
+    "type": "sound-input",
+    "label": "sound21",
+    "value": ""
+  },
+  "trigger21": {
+    "type": "text",
+    "label": "image21 trigger command",
+    "value": ""
+  },
+  "image22": {
+    "type": "image-input",
+    "label": "image22",
+    "value": ""
+  },
+  "sound22": {
+    "type": "sound-input",
+    "label": "sound22",
+    "value": ""
+  },
+  "trigger22": {
+    "type": "text",
+    "label": "image22 trigger command",
+    "value": ""
+  },
+  "image23": {
+    "type": "image-input",
+    "label": "image23",
+    "value": ""
+  },
+  "sound23": {
+    "type": "sound-input",
+    "label": "sound23",
+    "value": ""
+  },
+  "trigger23": {
+    "type": "text",
+    "label": "image23 trigger command",
+    "value": ""
+  },
+  "image24": {
+    "type": "image-input",
+    "label": "image24",
+    "value": ""
+  },
+  "sound24": {
+    "type": "sound-input",
+    "label": "sound24",
+    "value": ""
+  },
+  "trigger24": {
+    "type": "text",
+    "label": "image24 trigger command",
+    "value": ""
+  },
+  "image25": {
+    "type": "image-input",
+    "label": "image25",
+    "value": ""
+  },
+  "sound25": {
+    "type": "sound-input",
+    "label": "sound25",
+    "value": ""
+  },
+  "trigger25": {
+    "type": "text",
+    "label": "image25 trigger command",
+    "value": ""
+  },
+  "image26": {
+    "type": "image-input",
+    "label": "image26",
+    "value": ""
+  },
+  "sound26": {
+    "type": "sound-input",
+    "label": "sound26",
+    "value": ""
+  },
+  "trigger26": {
+    "type": "text",
+    "label": "image26 trigger command",
+    "value": ""
+  },
+  "image27": {
+    "type": "image-input",
+    "label": "image27",
+    "value": ""
+  },
+  "sound27": {
+    "type": "sound-input",
+    "label": "sound27",
+    "value": ""
+  },
+  "trigger27": {
+    "type": "text",
+    "label": "image27 trigger command",
+    "value": ""
+  },
+  "image28": {
+    "type": "image-input",
+    "label": "image28",
+    "value": ""
+  },
+  "sound28": {
+    "type": "sound-input",
+    "label": "sound28",
+    "value": ""
+  },
+  "trigger28": {
+    "type": "text",
+    "label": "image28 trigger command",
+    "value": ""
+  },
+  "image29": {
+    "type": "image-input",
+    "label": "image29",
+    "value": ""
+  },
+  "sound29": {
+    "type": "sound-input",
+    "label": "sound29",
+    "value": ""
+  },
+  "trigger29": {
+    "type": "text",
+    "label": "image29 trigger command",
+    "value": ""
+  },
+  "image30": {
+    "type": "image-input",
+    "label": "image30",
+    "value": ""
+  },
+  "sound30": {
+    "type": "sound-input",
+    "label": "sound30",
+    "value": ""
+  },
+  "trigger30": {
+    "type": "text",
+    "label": "image30 trigger command",
+    "value": ""
+  },
+  "image31": {
+    "type": "image-input",
+    "label": "image31",
+    "value": ""
+  },
+  "sound31": {
+    "type": "sound-input",
+    "label": "sound31",
+    "value": ""
+  },
+  "trigger31": {
+    "type": "text",
+    "label": "image31 trigger command",
+    "value": ""
+  },
+  "image32": {
+    "type": "image-input",
+    "label": "image32",
+    "value": ""
+  },
+  "sound32": {
+    "type": "sound-input",
+    "label": "sound32",
+    "value": ""
+  },
+  "trigger32": {
+    "type": "text",
+    "label": "image32 trigger command",
+    "value": ""
+  },
+  "image33": {
+    "type": "image-input",
+    "label": "image33",
+    "value": ""
+  },
+  "sound33": {
+    "type": "sound-input",
+    "label": "sound33",
+    "value": ""
+  },
+  "trigger33": {
+    "type": "text",
+    "label": "image33 trigger command",
+    "value": ""
+  },
+  "image34": {
+    "type": "image-input",
+    "label": "image34",
+    "value": ""
+  },
+  "sound34": {
+    "type": "sound-input",
+    "label": "sound34",
+    "value": ""
+  },
+  "trigger34": {
+    "type": "text",
+    "label": "image34 trigger command",
+    "value": ""
+  },
+  "image35": {
+    "type": "image-input",
+    "label": "image35",
+    "value": ""
+  },
+  "sound35": {
+    "type": "sound-input",
+    "label": "sound35",
+    "value": ""
+  },
+  "trigger35": {
+    "type": "text",
+    "label": "image35 trigger command",
+    "value": ""
+  },
+  "image36": {
+    "type": "image-input",
+    "label": "image36",
+    "value": ""
+  },
+  "sound36": {
+    "type": "sound-input",
+    "label": "sound36",
+    "value": ""
+  },
+  "trigger36": {
+    "type": "text",
+    "label": "image36 trigger command",
+    "value": ""
+  },
+  "image37": {
+    "type": "image-input",
+    "label": "image37",
+    "value": ""
+  },
+  "sound37": {
+    "type": "sound-input",
+    "label": "sound37",
+    "value": ""
+  },
+  "trigger37": {
+    "type": "text",
+    "label": "image37 trigger command",
+    "value": ""
+  },
+  "image38": {
+    "type": "image-input",
+    "label": "image38",
+    "value": ""
+  },
+  "sound38": {
+    "type": "sound-input",
+    "label": "sound38",
+    "value": ""
+  },
+  "trigger38": {
+    "type": "text",
+    "label": "image38 trigger command",
+    "value": ""
+  },
+  "image39": {
+    "type": "image-input",
+    "label": "image39",
+    "value": ""
+  },
+  "sound39": {
+    "type": "sound-input",
+    "label": "sound39",
+    "value": ""
+  },
+  "trigger39": {
+    "type": "text",
+    "label": "image39 trigger command",
+    "value": ""
+  },
+  "image40": {
+    "type": "image-input",
+    "label": "image40",
+    "value": ""
+  },
+  "sound40": {
+    "type": "sound-input",
+    "label": "sound40",
+    "value": ""
+  },
+  "trigger40": {
+    "type": "text",
+    "label": "image40 trigger command",
+    "value": ""
+  },
+  "image41": {
+    "type": "image-input",
+    "label": "image41",
+    "value": ""
+  },
+  "sound41": {
+    "type": "sound-input",
+    "label": "sound41",
+    "value": ""
+  },
+  "trigger41": {
+    "type": "text",
+    "label": "image41 trigger command",
+    "value": ""
+  },
+  "image42": {
+    "type": "image-input",
+    "label": "image42",
+    "value": ""
+  },
+  "sound42": {
+    "type": "sound-input",
+    "label": "sound42",
+    "value": ""
+  },
+  "trigger42": {
+    "type": "text",
+    "label": "image42 trigger command",
+    "value": ""
+  },
+  "image43": {
+    "type": "image-input",
+    "label": "image43",
+    "value": ""
+  },
+  "sound43": {
+    "type": "sound-input",
+    "label": "sound43",
+    "value": ""
+  },
+  "trigger43": {
+    "type": "text",
+    "label": "image43 trigger command",
+    "value": ""
+  },
+  "image44": {
+    "type": "image-input",
+    "label": "image44",
+    "value": ""
+  },
+  "sound44": {
+    "type": "sound-input",
+    "label": "sound44",
+    "value": ""
+  },
+  "trigger44": {
+    "type": "text",
+    "label": "image44 trigger command",
+    "value": ""
+  },
+  "image45": {
+    "type": "image-input",
+    "label": "image45",
+    "value": ""
+  },
+  "sound45": {
+    "type": "sound-input",
+    "label": "sound45",
+    "value": ""
+  },
+  "trigger45": {
+    "type": "text",
+    "label": "image45 trigger command",
+    "value": ""
+  },
+  "image46": {
+    "type": "image-input",
+    "label": "image46",
+    "value": ""
+  },
+  "sound46": {
+    "type": "sound-input",
+    "label": "sound46",
+    "value": ""
+  },
+  "trigger46": {
+    "type": "text",
+    "label": "image46 trigger command",
+    "value": ""
+  },
+  "image47": {
+    "type": "image-input",
+    "label": "image47",
+    "value": ""
+  },
+  "sound47": {
+    "type": "sound-input",
+    "label": "sound47",
+    "value": ""
+  },
+  "trigger47": {
+    "type": "text",
+    "label": "image47 trigger command",
+    "value": ""
+  },
+  "image48": {
+    "type": "image-input",
+    "label": "image48",
+    "value": ""
+  },
+  "sound48": {
+    "type": "sound-input",
+    "label": "sound48",
+    "value": ""
+  },
+  "trigger48": {
+    "type": "text",
+    "label": "image48 trigger command",
+    "value": ""
+  },
+  "image49": {
+    "type": "image-input",
+    "label": "image49",
+    "value": ""
+  },
+  "sound49": {
+    "type": "sound-input",
+    "label": "sound49",
+    "value": ""
+  },
+  "trigger49": {
+    "type": "text",
+    "label": "image49 trigger command",
+    "value": ""
+  },
+  "image50": {
+    "type": "image-input",
+    "label": "image50",
+    "value": ""
+  },
+  "sound50": {
+    "type": "sound-input",
+    "label": "sound50",
+    "value": ""
+  },
+  "trigger50": {
+    "type": "text",
+    "label": "image50 trigger command",
+    "value": ""
+  },
+  "image51": {
+    "type": "image-input",
+    "label": "image51",
+    "value": ""
+  },
+  "sound51": {
+    "type": "sound-input",
+    "label": "sound51",
+    "value": ""
+  },
+  "trigger51": {
+    "type": "text",
+    "label": "image51 trigger command",
+    "value": ""
+  },
+  "image52": {
+    "type": "image-input",
+    "label": "image52",
+    "value": ""
+  },
+  "sound52": {
+    "type": "sound-input",
+    "label": "sound52",
+    "value": ""
+  },
+  "trigger52": {
+    "type": "text",
+    "label": "image52 trigger command",
+    "value": ""
+  },
+  "image53": {
+    "type": "image-input",
+    "label": "image53",
+    "value": ""
+  },
+  "sound53": {
+    "type": "sound-input",
+    "label": "sound53",
+    "value": ""
+  },
+  "trigger53": {
+    "type": "text",
+    "label": "image53 trigger command",
+    "value": ""
+  },
+  "image54": {
+    "type": "image-input",
+    "label": "image54",
+    "value": ""
+  },
+  "sound54": {
+    "type": "sound-input",
+    "label": "sound54",
+    "value": ""
+  },
+  "trigger54": {
+    "type": "text",
+    "label": "image54 trigger command",
+    "value": ""
+  },
+  "image55": {
+    "type": "image-input",
+    "label": "image55",
+    "value": ""
+  },
+  "sound55": {
+    "type": "sound-input",
+    "label": "sound55",
+    "value": ""
+  },
+  "trigger55": {
+    "type": "text",
+    "label": "image55 trigger command",
+    "value": ""
+  },
+  "image56": {
+    "type": "image-input",
+    "label": "image56",
+    "value": ""
+  },
+  "sound56": {
+    "type": "sound-input",
+    "label": "sound56",
+    "value": ""
+  },
+  "trigger56": {
+    "type": "text",
+    "label": "image56 trigger command",
+    "value": ""
+  },
+  "image57": {
+    "type": "image-input",
+    "label": "image57",
+    "value": ""
+  },
+  "sound57": {
+    "type": "sound-input",
+    "label": "sound57",
+    "value": ""
+  },
+  "trigger57": {
+    "type": "text",
+    "label": "image57 trigger command",
+    "value": ""
+  },
+  "image58": {
+    "type": "image-input",
+    "label": "image58",
+    "value": ""
+  },
+  "sound58": {
+    "type": "sound-input",
+    "label": "sound58",
+    "value": ""
+  },
+  "trigger58": {
+    "type": "text",
+    "label": "image58 trigger command",
+    "value": ""
+  },
+  "image59": {
+    "type": "image-input",
+    "label": "image59",
+    "value": ""
+  },
+  "sound59": {
+    "type": "sound-input",
+    "label": "sound59",
+    "value": ""
+  },
+  "trigger59": {
+    "type": "text",
+    "label": "image59 trigger command",
+    "value": ""
+  },
+  "image60": {
+    "type": "image-input",
+    "label": "image60",
+    "value": ""
+  },
+  "sound60": {
+    "type": "sound-input",
+    "label": "sound60",
+    "value": ""
+  },
+  "trigger60": {
+    "type": "text",
+    "label": "image60 trigger command",
+    "value": ""
+  },
+  "image61": {
+    "type": "image-input",
+    "label": "image61",
+    "value": ""
+  },
+  "sound61": {
+    "type": "sound-input",
+    "label": "sound61",
+    "value": ""
+  },
+  "trigger61": {
+    "type": "text",
+    "label": "image61 trigger command",
+    "value": ""
+  },
+  "image62": {
+    "type": "image-input",
+    "label": "image62",
+    "value": ""
+  },
+  "sound62": {
+    "type": "sound-input",
+    "label": "sound62",
+    "value": ""
+  },
+  "trigger62": {
+    "type": "text",
+    "label": "image62 trigger command",
+    "value": ""
+  },
+  "image63": {
+    "type": "image-input",
+    "label": "image63",
+    "value": ""
+  },
+  "sound63": {
+    "type": "sound-input",
+    "label": "sound63",
+    "value": ""
+  },
+  "trigger63": {
+    "type": "text",
+    "label": "image63 trigger command",
+    "value": ""
+  },
+  "image64": {
+    "type": "image-input",
+    "label": "image64",
+    "value": ""
+  },
+  "sound64": {
+    "type": "sound-input",
+    "label": "sound64",
+    "value": ""
+  },
+  "trigger64": {
+    "type": "text",
+    "label": "image64 trigger command",
+    "value": ""
+  },
+  "image65": {
+    "type": "image-input",
+    "label": "image65",
+    "value": ""
+  },
+  "sound65": {
+    "type": "sound-input",
+    "label": "sound65",
+    "value": ""
+  },
+  "trigger65": {
+    "type": "text",
+    "label": "image65 trigger command",
+    "value": ""
+  },
+  "image66": {
+    "type": "image-input",
+    "label": "image66",
+    "value": ""
+  },
+  "sound66": {
+    "type": "sound-input",
+    "label": "sound66",
+    "value": ""
+  },
+  "trigger66": {
+    "type": "text",
+    "label": "image66 trigger command",
+    "value": ""
+  },
+  "image67": {
+    "type": "image-input",
+    "label": "image67",
+    "value": ""
+  },
+  "sound67": {
+    "type": "sound-input",
+    "label": "sound67",
+    "value": ""
+  },
+  "trigger67": {
+    "type": "text",
+    "label": "image67 trigger command",
+    "value": ""
+  },
+  "image68": {
+    "type": "image-input",
+    "label": "image68",
+    "value": ""
+  },
+  "sound68": {
+    "type": "sound-input",
+    "label": "sound68",
+    "value": ""
+  },
+  "trigger68": {
+    "type": "text",
+    "label": "image68 trigger command",
+    "value": ""
+  },
+  "image69": {
+    "type": "image-input",
+    "label": "image69",
+    "value": ""
+  },
+  "sound69": {
+    "type": "sound-input",
+    "label": "sound69",
+    "value": ""
+  },
+  "trigger69": {
+    "type": "text",
+    "label": "image69 trigger command",
+    "value": ""
+  },
+  "image70": {
+    "type": "image-input",
+    "label": "image70",
+    "value": ""
+  },
+  "sound70": {
+    "type": "sound-input",
+    "label": "sound70",
+    "value": ""
+  },
+  "trigger70": {
+    "type": "text",
+    "label": "image70 trigger command",
+    "value": ""
+  },
+  "image71": {
+    "type": "image-input",
+    "label": "image71",
+    "value": ""
+  },
+  "sound71": {
+    "type": "sound-input",
+    "label": "sound71",
+    "value": ""
+  },
+  "trigger71": {
+    "type": "text",
+    "label": "image71 trigger command",
+    "value": ""
+  },
+  "image72": {
+    "type": "image-input",
+    "label": "image72",
+    "value": ""
+  },
+  "sound72": {
+    "type": "sound-input",
+    "label": "sound72",
+    "value": ""
+  },
+  "trigger72": {
+    "type": "text",
+    "label": "image72 trigger command",
+    "value": ""
+  },
+  "image73": {
+    "type": "image-input",
+    "label": "image73",
+    "value": ""
+  },
+  "sound73": {
+    "type": "sound-input",
+    "label": "sound73",
+    "value": ""
+  },
+  "trigger73": {
+    "type": "text",
+    "label": "image73 trigger command",
+    "value": ""
+  },
+  "image74": {
+    "type": "image-input",
+    "label": "image74",
+    "value": ""
+  },
+  "sound74": {
+    "type": "sound-input",
+    "label": "sound74",
+    "value": ""
+  },
+  "trigger74": {
+    "type": "text",
+    "label": "image74 trigger command",
+    "value": ""
+  },
+  "image75": {
+    "type": "image-input",
+    "label": "image75",
+    "value": ""
+  },
+  "sound75": {
+    "type": "sound-input",
+    "label": "sound75",
+    "value": ""
+  },
+  "trigger75": {
+    "type": "text",
+    "label": "image75 trigger command",
+    "value": ""
+  },
+  "image76": {
+    "type": "image-input",
+    "label": "image76",
+    "value": ""
+  },
+  "sound76": {
+    "type": "sound-input",
+    "label": "sound76",
+    "value": ""
+  },
+  "trigger76": {
+    "type": "text",
+    "label": "image76 trigger command",
+    "value": ""
+  },
+  "image77": {
+    "type": "image-input",
+    "label": "image77",
+    "value": ""
+  },
+  "sound77": {
+    "type": "sound-input",
+    "label": "sound77",
+    "value": ""
+  },
+  "trigger77": {
+    "type": "text",
+    "label": "image77 trigger command",
+    "value": ""
+  },
+  "image78": {
+    "type": "image-input",
+    "label": "image78",
+    "value": ""
+  },
+  "sound78": {
+    "type": "sound-input",
+    "label": "sound78",
+    "value": ""
+  },
+  "trigger78": {
+    "type": "text",
+    "label": "image78 trigger command",
+    "value": ""
+  },
+  "image79": {
+    "type": "image-input",
+    "label": "image79",
+    "value": ""
+  },
+  "sound79": {
+    "type": "sound-input",
+    "label": "sound79",
+    "value": ""
+  },
+  "trigger79": {
+    "type": "text",
+    "label": "image79 trigger command",
+    "value": ""
+  },
+  "image80": {
+    "type": "image-input",
+    "label": "image80",
+    "value": ""
+  },
+  "sound80": {
+    "type": "sound-input",
+    "label": "sound80",
+    "value": ""
+  },
+  "trigger80": {
+    "type": "text",
+    "label": "image80 trigger command",
+    "value": ""
+  },
+  "image81": {
+    "type": "image-input",
+    "label": "image81",
+    "value": ""
+  },
+  "sound81": {
+    "type": "sound-input",
+    "label": "sound81",
+    "value": ""
+  },
+  "trigger81": {
+    "type": "text",
+    "label": "image81 trigger command",
+    "value": ""
+  },
+  "image82": {
+    "type": "image-input",
+    "label": "image82",
+    "value": ""
+  },
+  "sound82": {
+    "type": "sound-input",
+    "label": "sound82",
+    "value": ""
+  },
+  "trigger82": {
+    "type": "text",
+    "label": "image82 trigger command",
+    "value": ""
+  },
+  "image83": {
+    "type": "image-input",
+    "label": "image83",
+    "value": ""
+  },
+  "sound83": {
+    "type": "sound-input",
+    "label": "sound83",
+    "value": ""
+  },
+  "trigger83": {
+    "type": "text",
+    "label": "image83 trigger command",
+    "value": ""
+  },
+  "image84": {
+    "type": "image-input",
+    "label": "image84",
+    "value": ""
+  },
+  "sound84": {
+    "type": "sound-input",
+    "label": "sound84",
+    "value": ""
+  },
+  "trigger84": {
+    "type": "text",
+    "label": "image84 trigger command",
+    "value": ""
+  },
+  "image85": {
+    "type": "image-input",
+    "label": "image85",
+    "value": ""
+  },
+  "sound85": {
+    "type": "sound-input",
+    "label": "sound85",
+    "value": ""
+  },
+  "trigger85": {
+    "type": "text",
+    "label": "image85 trigger command",
+    "value": ""
+  },
+  "image86": {
+    "type": "image-input",
+    "label": "image86",
+    "value": ""
+  },
+  "sound86": {
+    "type": "sound-input",
+    "label": "sound86",
+    "value": ""
+  },
+  "trigger86": {
+    "type": "text",
+    "label": "image86 trigger command",
+    "value": ""
+  },
+  "image87": {
+    "type": "image-input",
+    "label": "image87",
+    "value": ""
+  },
+  "sound87": {
+    "type": "sound-input",
+    "label": "sound87",
+    "value": ""
+  },
+  "trigger87": {
+    "type": "text",
+    "label": "image87 trigger command",
+    "value": ""
+  },
+  "image88": {
+    "type": "image-input",
+    "label": "image88",
+    "value": ""
+  },
+  "sound88": {
+    "type": "sound-input",
+    "label": "sound88",
+    "value": ""
+  },
+  "trigger88": {
+    "type": "text",
+    "label": "image88 trigger command",
+    "value": ""
+  },
+  "image89": {
+    "type": "image-input",
+    "label": "image89",
+    "value": ""
+  },
+  "sound89": {
+    "type": "sound-input",
+    "label": "sound89",
+    "value": ""
+  },
+  "trigger89": {
+    "type": "text",
+    "label": "image89 trigger command",
+    "value": ""
+  },
+  "image90": {
+    "type": "image-input",
+    "label": "image90",
+    "value": ""
+  },
+  "sound90": {
+    "type": "sound-input",
+    "label": "sound90",
+    "value": ""
+  },
+  "trigger90": {
+    "type": "text",
+    "label": "image90 trigger command",
+    "value": ""
+  }
+}
